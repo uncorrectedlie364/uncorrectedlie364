@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @uncorrectedlie364
-- 👀 I’m interested in software engineering, game development, and music
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on software projects
-- 📫 How to reach me, www.facebook.com/rodgy.mcclare
-
-<!---
-uncorrectedlie364/uncorrectedlie364 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an aspiring indie game developer who's passionate about creating immersive experiences. Over the next two or three years, I plan to build my own studio and continue refining my skills through hands-on projects. Follow my journey as I create and grow in the world of game development!
